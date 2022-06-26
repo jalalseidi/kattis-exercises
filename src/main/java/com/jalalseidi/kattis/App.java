@@ -1,4 +1,4 @@
-package org.example;
+package com.jalalseidi.kattis;
 
 /**
  * Hello world!
